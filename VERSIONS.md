@@ -2,7 +2,7 @@
 
 
 ## Regular Update 'Beta v0.0.2a'
-### 10.11.2025
+### 11.11.2025
 - Return one kind of enemy: Wild dog.
 
 ## Regular Update 'Beta v0.0.2'
