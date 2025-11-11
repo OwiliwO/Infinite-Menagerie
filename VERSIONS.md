@@ -5,6 +5,8 @@
 ### 11.11.2025
 - Return one kind of enemy: Wild dog.
 - Bug fixed with starting game and education stage.
+- Add a new format of date and time in player's statistics.
+- Change format description of enemies.
 
 ## Regular Update 'Beta v0.0.2'
 ### 10.11.2025
