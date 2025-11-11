@@ -4,6 +4,7 @@
 ## Regular Update 'Beta v0.0.2a'
 ### 11.11.2025
 - Return one kind of enemy: Wild dog.
+- Bug fixed with starting game and education stage.
 
 ## Regular Update 'Beta v0.0.2'
 ### 10.11.2025
