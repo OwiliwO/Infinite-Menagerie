@@ -1,6 +1,11 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.0.2b'
+### 12.11.2025
+- Add Runes of Power: Objects that appear at the edges of the map. If you destroy them during the turn in which they appeared, they can replenish your character's resources; otherwise, the rune will be destroyed.
+- Add music and sounds: Main music theme, sound effect of buttons
+
 ## Regular Update 'Beta v0.0.2a'
 ### 11.11.2025
 - Return one kind of enemy: Wild dog.
