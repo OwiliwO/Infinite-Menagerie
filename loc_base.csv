@@ -65,6 +65,10 @@ desc_ALL_pig;Неожиданно коварное создание, облад�
 desc_FTR_pig;Атака может лишить врага возможности передвигаться;Attack can deprive the enemy of the ability to move
 desc_ALL_rabbit;Невероятно проворный и неуловимый зверек;Incredibly agile and elusive animal
 desc_FTR_rabbit;Врожденная ловкость позволяет полностью увернуться от любой направленной на него атаки;Innate agility allows to completely evade any attack directed at it
+desc_ALL_rune_life;Таинственный камень с кроваво-алыми рунами;A mysterious stone with blood-red runes
+desc_FTR_rune_life;При уничтожении восполняет немного, потраченного в бою, очков здоровья;When destroyed, it restores a small amount of health spent in battle
+desc_ALL_rune_magic;Мистический гранит с небесно-лазурным свечением;Mystical granite with a celestial azure glow
+desc_FTR_rune_magic;При уничтожении немного восполняет запасов очков колдовства;When destroyed, it slightly restores your witchcraft points
 desc_ALL_secret_shop;Таинственная фигура в плаще, чье лицо скрыто в тенях;Mysterious figure in a cloak with face hidden in shadows
 desc_FTR_secret_shop;Появляется в самых неожиданных местах, словно между измерениями;Appears in the most unexpected places, as if between dimensions
 desc_ALL_wild_dog;Стайный хищник, опасный своей плодовитостью;Pack predator dangerous for its fertility
