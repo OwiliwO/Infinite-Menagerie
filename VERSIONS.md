@@ -1,6 +1,12 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.0.3'
+### 15.11.2025
+- Add special inscriptions after death.
+- Bug fixed with runes.
+- Add function of wild dog's mask: Main character can create own shadow once, which can hit all enemies.
+
 ## Regular Update 'Beta v0.0.2b'
 ### 12.11.2025
 - Add Runes of Power: Objects that appear at the edges of the map. If you destroy them during the turn in which they appeared, they can replenish your character's resources; otherwise, the rune will be destroyed.
