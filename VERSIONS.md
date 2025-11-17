@@ -1,5 +1,11 @@
 # Infinite Managerie
 
+## Regular Update 'Beta v0.0.4'
+### 17.11.2025
+- Fixed the description of the main character's stats. Attribute icons now show how much of a particular stat is gained per attribute point.
+- Updated the visual design of the main menu settings.
+- Added visual effects for the Immortality buff.
+- Added visual effects for the Rage buff.
 
 ## Regular Update 'Beta v0.0.3'
 ### 15.11.2025
