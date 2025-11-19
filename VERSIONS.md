@@ -1,5 +1,27 @@
 # Infinite Managerie
 
+## Unusual Update 'Beta v0.0.5' - Balance Reforged
+### 19.11.2025
+- Added current damage and movement speed indicators to the description.
+- Added attribute descriptions and a current gold indicator.
+- Fixed a memory leak, resulting in reduced operating memory load.
+- Fixed a bug with the cat wave appearing and transitioning to the next wave.
+- Fixed a bug where items already in the inventory were not being removed from the shop.
+- Fixed a bug with the Splash function dealing damage to allies.
+- Fixed a bug causing high-tier items to appear in the shop.
+- Fixed a bug preventing the player from attacking an enemy at the map edge while wearing the Bulldog Mask.
+- Fixed a bug related to the two-mask feature not being restored.
+- Fixed a bug with the dynamic display of enemy tooltips.
+- Fixed a bug with the Trader's movement during their wave.
+- Changed the character stat calculation principle. Any non-integer calculation will now be rounded according to mathematical rules.
+- Changed the inaccurate description of the Wild Dog.
+- Changed the main character (Strength) - now has 3 AP.
+- Changed the main character (Intelligence) - now has 8 HP.
+- Changed the enemy (Cat) - now has 3 ATK.
+- Changed the enemy (Dragonfly) - now has 8 HP and 2 ATK.
+- Changed the enemy (Mantis) - now has 2 ATK.
+- Changed the enemy (Rabbit) - now has 7 HP.
+
 ## Regular Update 'Beta v0.0.4'
 ### 17.11.2025
 - Fixed the description of the main character's stats. Attribute icons now show how much of a particular stat is gained per attribute point.
