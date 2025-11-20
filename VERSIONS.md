@@ -1,5 +1,15 @@
 # Infinite Managerie
 
+## Regular Update 'Beta v0.0.6'
+### 20.11.2025
+- Added a shop tutorial.
+- Added two new types of waves and adjusted the order of difficulty progression.
+- Fixed a bug where runes would restore attributes during the first wave.
+- Fixed a bug with incorrect rune spawns.
+- Fixed a bug related to enemy difficulty scaling.
+- Fixed bugs related to the ally. Ally turns are now strictly separate, and the timeline for allies and enemies no longer overlaps. Allies also can no longer attack the merchant.
+- Changed the display of core attributes (Action Points and Mana Points).
+
 ## Unusual Update 'Beta v0.0.5' - Balance Reforged
 ### 19.11.2025
 - Added current damage and movement speed indicators to the description.
