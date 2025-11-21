@@ -6,6 +6,7 @@
 - Enemy scaling difficulty has been adjusted. Every 19th wave, enemies now receive a bonus to their damage and health.
 - The logic for item appearance at the merchant has been changed. There is now a chance that when a lower-tier item of a specific type is available, a higher-tier item of the same type will appear instead.
 - An item tier system has been added. When a higher-tier item is purchased, the previous lower-tier item of that type will break.
+- Fixed a bug related to destroying multiple enemies simultaneously.
 
 ## Regular Update 'Beta v0.0.6'
 **20.11.2025**
