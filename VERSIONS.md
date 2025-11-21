@@ -1,7 +1,14 @@
 # Infinite Managerie
 
+
+## Regular Update 'Beta v0.0.6a'
+**21.11.2025**
+- Enemy scaling difficulty has been adjusted. Every 19th wave, enemies now receive a bonus to their damage and health.
+- The logic for item appearance at the merchant has been changed. There is now a chance that when a lower-tier item of a specific type is available, a higher-tier item of the same type will appear instead.
+- An item tier system has been added. When a higher-tier item is purchased, the previous lower-tier item of that type will break.
+
 ## Regular Update 'Beta v0.0.6'
-### 20.11.2025
+**20.11.2025**
 - Added a shop tutorial.
 - Added two new types of waves and adjusted the order of difficulty progression.
 - Fixed a bug where runes would restore attributes during the first wave.
@@ -11,7 +18,7 @@
 - Changed the display of core attributes (Action Points and Mana Points).
 
 ## Unusual Update 'Beta v0.0.5' - Balance Reforged
-### 19.11.2025
+**19.11.2025**
 - Added current damage and movement speed indicators to the description.
 - Added attribute descriptions and a current gold indicator.
 - Fixed a memory leak, resulting in reduced operating memory load.
@@ -33,32 +40,32 @@
 - Changed the enemy (Rabbit) - now has 7 HP.
 
 ## Regular Update 'Beta v0.0.4'
-### 17.11.2025
+**17.11.2025**
 - Fixed the description of the main character's stats. Attribute icons now show how much of a particular stat is gained per attribute point.
 - Updated the visual design of the main menu settings.
 - Added visual effects for the Immortality buff.
 - Added visual effects for the Rage buff.
 
 ## Regular Update 'Beta v0.0.3'
-### 15.11.2025
+**15.11.2025**
 - Add special inscriptions after death.
 - Bug fixed with runes.
 - Add function of wild dog's mask: Main character can create own shadow once, which can hit all enemies.
 
 ## Regular Update 'Beta v0.0.2b'
-### 12.11.2025
+**12.11.2025**
 - Add Runes of Power: Objects that appear at the edges of the map. If you destroy them during the turn in which they appeared, they can replenish your character's resources; otherwise, the rune will be destroyed.
 - Add music and sounds: Main music theme, sound effect of buttons
 
 ## Regular Update 'Beta v0.0.2a'
-### 11.11.2025
+**11.11.2025**
 - Return one kind of enemy: Wild dog.
 - Bug fixed with starting game and education stage.
 - Add a new format of date and time in player's statistics.
 - Change format description of enemies.
 
 ## Regular Update 'Beta v0.0.2'
-### 10.11.2025
+**10.11.2025**
 
 - Added a new ability: Change Mask. This ability allows you to adopt the special traits of enemy puppets. Consumes OK and OD.
 - Improved the project structure. A modifier structure was created, which is independent of global parameters and belongs to character IDs. A proper object hierarchy was established.
