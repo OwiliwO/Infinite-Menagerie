@@ -1,6 +1,15 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.0.6b'
+**23.11.2025**
+- Added a visual effect for Claymore and Aglegor items.
+- Added a visual effect for the retribution effect.
+- Added a visual effect for the roots effect.
+- Added a visual indicator for the bleeding effect.
+- Added a visual indicator for the disarming effect.
+- Fixed a bug with critical damage assignment.
+
 ## Regular Update 'Beta v0.0.6a'
 **21.11.2025**
 - Enemy scaling difficulty has been adjusted. Every 19th wave, enemies now receive a bonus to their damage and health.
@@ -42,10 +51,10 @@
 
 ## Regular Update 'Beta v0.0.4'
 **17.11.2025**
-- Fixed the description of the main character's stats. Attribute icons now show how much of a particular stat is gained per attribute point.
-- Updated the visual design of the main menu settings.
 - Added visual effects for the Immortality buff.
 - Added visual effects for the Rage buff.
+- Fixed the description of the main character's stats. Attribute icons now show how much of a particular stat is gained per attribute point.
+- Updated the visual design of the main menu settings.
 
 ## Regular Update 'Beta v0.0.3'
 **15.11.2025**
