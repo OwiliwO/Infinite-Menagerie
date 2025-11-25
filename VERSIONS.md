@@ -1,6 +1,20 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.0.6c'
+**25.11.2025**
+- Added visual effects for Claymore and Aglegor items.
+- Added visual effects for the Retribution effect.
+- Added visual effects for the Roots effect.
+- Added visual notification for the Bleeding effect.
+- Added visual notification for the Disarm effect.
+- Fixed critical damage assignment bug.
+- Fixed wild puppies growth bug.
+- Fixed wild dogs bug.
+- Fixed descriptions of some objects.
+- Changed initial tutorial.
+- Changed visual appearance of runes.
+
 ## Regular Update 'Beta v0.0.6b'
 **23.11.2025**
 - Added a visual effect for Claymore and Aglegor items.
