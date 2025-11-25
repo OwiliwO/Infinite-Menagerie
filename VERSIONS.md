@@ -11,6 +11,9 @@
 - Fixed critical damage assignment bug.
 - Fixed wild puppies growth bug.
 - Fixed wild dogs bug.
+- Fixed a bug with the Fox's Mask that was causing the game to crash when rendering the status effect.
+- Fixed a bug with incorrect item identification in the shop after the update.
+- Fixed a bug related to a ring error.
 - Fixed descriptions of some objects.
 - Changed initial tutorial.
 - Changed visual appearance of runes.
