@@ -12,5 +12,6 @@ Now let's examine your character. Note their distinctive sign: it shows the main
 Excellent! You're now fully prepared for endless battle. Stay focused and good luck will never leave you.
 
 ## Installation instructions
-1. Download as `ZIP` all files
-2. To launch the game, run the Infinite-Menagerie.exe
+1. Click to button `<> Code`
+2. Download as `ZIP` all files
+3. To launch the game, run the Infinite-Menagerie.exe
