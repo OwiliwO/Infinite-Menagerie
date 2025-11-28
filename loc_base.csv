@@ -1,0 +1,112 @@
+KEY;RUSSIAN;ENGLISH
+sttg_start_game;Начать игру;Start game
+sttg_setting;Настройки;Setting
+sttg_exit;Выход;Exit
+sttg_change_attribute;Нажмите ПКМ, чтобы изменить основной атрибут;RMB to change the primary attribute
+sttg_music_volume;Громкость музыки;Music volume
+sttg_sound_volume;Громкость эффектов;Sounds volume
+sttg_fullscreen;На весь экран;Fullscreen
+sttg_language;Русский;English
+sttg_back;Назад;Back
+stat_count_waves;Пройдено волн: ;Waves completed: 
+stat_max_HP;Максимальное ОЗ: ;Max HP: 
+stat_max_MP;Максимальное ОК: ;Max MP: 
+stat_max_AP;Максимальное ОД: ;Max AP: 
+stat_main_attribute_Strength;Основной Атрибут: Сила;Main attribute: Strength
+stat_main_attribute_Agility;Основной Атрибут: Ловкость;Main attribute: Agility
+stat_main_attribute_Intelligence;Основной Атрибут: Интеллект;Main attribute: Intelligence
+stat_statistic_Strength;Атрибут силы: ;The numerical value of the Strength attribute: 
+stat_statistic_Agility;Атрибут ловкости: ;The numerical value of the Agility attribute: 
+stat_statistic_Intelligence;Атрибут интеллекта: ;The numerical value of the Intelligence attribute: 
+stat_inventory;Ваши придметы: ;Your items: 
+desc_continue;Нажмите Esc для продолжения;Press Esc to continue
+desc_continue_education;Нажмите Space для продолжения;Press Space to continue
+desc_achivements;Полотно Славы покажет все ваши попытки пройти бесконечный зверинец. Нажми ЛКМ на полотно, чтобы показать статистику. Максимальное количество пройденных волн: ;The Canvas of Glory will show all your attempts to complete the endless menagerie. LKM on the canvas to display the statistics. Maximum number of waves passed: 
+desc_statistic_Strength;Атрибут силы, отвечающий за кол-во. максимального ОЗ. Базовый прирост силы: '4'. Каждое очко силы увеличивает ОЗ на 1,333. Текущий показатель силы: ;Strength attribute responsible for maximum HP. Base Strength gain: '4'. Each point of Strength increases HP by 1.333. Current Strength: 
+desc_statistic_Agility;Атрибут ловкости, отвечающий за кол-во. максимального ОД. Базовый прирост ловкости: '3'. Каждое очко ловкости увеличивает ОД на 0,429. Текущий показатель ловкости: ;gility attribute responsible for maximum AP. Base Agility gain: '3'. Each point of Agility increases AP by 0.429. Current Agility: 
+desc_statistic_Intelligence;Атрибут интеллекта, отвечающий за кол-во. максимального ОК. Базовый прирост интеллекта: '2'. Каждое очко интеллекта увеличивает ОК на 0,667. Текущий показатель интеллекта: ;Intelligence attribute responsible for maximum MP. Base Intelligence gain: '2'. Each point of Intelligence increases MP by 0.667. Current Intelligence: 
+desc_is_side_own;ход игрока;player's step
+desc_is_not_side_own;ход противника;opponent's step
+desc_slide_side_1;Солнце - ход игрока, луна - ход противника. Текущий ход: ;Sun - player's turn, moon - opponent's turn. Current turn: 
+desc_slide_side_2;. Текущая волна: ;. Current wave: 
+desc_coin_of_greed;Монета, за которую можно осуществлять покупки в Магазине тайн. Текущее кол-во. золота: ;Coin used for purchases in the Mystery Shop. Current gold amount: 
+desc_ability_skip;Пропуск хода;Skip turn
+desc_ability_move;Обычное передвижение, скорость которого зависит от значения интеллекта. Каждое очко интеллекта увеличивает скорость на 0.4. Текущая скорость передвижения: ;Regular movement. Movement speed scales with intelligence. Each point of intelligence increases movement speed by 0.4. Current movement speed: 
+desc_ability_attack;Обычная атака, урон которой зависит от значения основного атрибута, радиус атаки равен скорости передвижения. Каждое очко основного атрибута увеличивает урон на 0.668. Текущий урон: ;Regular attack. Damage scales with the hero's main attribute (each point adds 0.668 damage). Attack range is equal to movement speed. Current damage: 
+desc_ability_change_mask;Уникальная способность безликих марионеток, позволяющая временно перенимать особенность других марионеток, радиус которой зависит от значения интеллекта. Стоимость: 2 ОК, не требует ОД;A unique ability of faceless puppets that allows them to temporarily adopt the trait of other puppets, the radius of which depends on the value of intelligence. Cost: 2 MP, does not require AP
+desc_education_1;Добро пожаловать в Infinite Menagerie! Здесь вам предстоит испытать свои силы в борьбе против жителей и духов леса. Цель игры: покинуть вечно растущий лес, победив трех хозяинов леса. Давайте посмотрим на инструменты, с помощью которых вы будете выбираться;Welcome to Infinite Menagerie! Here, you will test your strength in battles against the forest's inhabitants and spirits. The goal of the game is to escape the ever-expanding forest by defeating three forest masters. Let's take a look at the tools you will use to find your way out
+desc_education_2;Прежде всего, Infinite Menagerie - пошаговая стратегия, поэтому на часах сверху вы можете увидеть, чей сейчас идет ход, и сколько волн вы уже смогли пережить. Ваш ход закончится, когда очки действий (ОД) вашего персонажа иссякнут. Волна будет пережита, когда ваши противники будут повержены;First of all, Infinite Menagerie is a turn-based strategy, so on the clock above you can see whose turn it is and how many waves you've survived. Your turn ends when your character's Action Points (AP) is depleted. A wave is completed when all enemies are defeated
+desc_education_3;После каждой пережитой волны противников, вы будете получать определенное количество золота, соизмеримое сложности пройденной волны;After each survived enemy wave, you'll receive a certain amount of gold commensurate with the difficulty of the completed wave
+desc_education_4;Теперь рассмотрим вашего персонажа. Обратите внимание на его отличительный знак: он показывает основной атрибут персонажа, от которого зависит урон различных видов атак: красный - сила, зеленый - ловкость и голубой - интеллект. От данных атрибутов зависят характеристики персонажа. Теперь попробуйте выделить при помощи ЛКМ;Now let's examine your character. Note their distinctive sign: it shows the main attribute that determines damage of various attack types: red - strength, green - agility, and blue - intelligence. Character stats depend on these attributes. Now try selecting with LMB
+desc_education_5;Вдоль левой границы располагаются основные способности, чтобы прочитать про них подробнее попробуйте навести на них курсор мыши. Каждая стандартная способность, исключая пропуск хода, расходует ОД;The main abilities are located along the left border - hover your mouse over them to learn more. Each standard ability, except skip turn, consumes AP
+desc_education_6;Вдоль нижней границы находятся знаки атрибутов, чтобы прочитать про них подробнее попробуйте навести на них курсор мыши;Along the bottom border are attribute signs - hover your mouse over them to learn more
+desc_education_7;В левом верхнем углу располагаются характеристики: очки здоровья (ОЗ), очки колдовства (ОК) и очки действий (ОД);The stats are located in the upper left corner: Health Points (HP), Magic Points (MP), and Action Points (AP)
+desc_education_8;Вдоль правой границы находится ваш инвентарь. В нем могут находится различные предметы, некоторые из них могут обладать активной способностью, которая расходует ОК и ОД;Along the bottom border is your inventory. It can contain various items, some with active abilities that consume MP and AP
+desc_education_9;Теперь попробуйте, используя полученные знания пройти первую вашу волну;Now try using the knowledge you've gained to complete your first wave
+desc_education_10;Отлично! Теперь вы полностью готовы к бесконечной битве. Не расслабляйтесь и удача никогда вас не покинет;Excellent! You're now fully prepared for endless battle. Stay focused and good luck will never leave you
+desc_education_shop_1;На вашем пути встретился таинственный торговец. Здесь вы можете приобрести предметы, улучшающие ваши характеристики, за определенную цену. Чтобы купить предмет, нажмите на него ЛКМ;A mysterious merchant has crossed your path. Here you can purchase items that boost your stats for a set price. To buy an item, left-click on it
+desc_education_shop_2;Вы можете также продавать предметы за половину их изначальной стоимости, чтобы это сделать, нажмите на него в вашем инвентаре СКМ. Чтобы покинуть магазин, разбейте фигуру торговца, и вы перейдете на следующую волну;You can also sell items for half their original value. To do so, middle-click on them in your inventory. To leave the shop, break the merchant's figurine, and you will proceed to the next wave
+desc_ATK;АТК: ;ATK: 
+desc_SPD;СКР: ;СПД: 
+desc_FTR;Особенность: ;Feature: 
+desc_ALL_bug;Небольшое, но невероятно живучее существо с прочным панцирем;A small but incredibly tenacious creature with a durable shell
+desc_FTR_bug;Уникальная защита позволяет вернуть половину нанесенного урона, истощая противника;Unique defense allows returning half of the damage dealt, exhausting the opponent
+desc_deph_bug;'Вы были раздавлены жуком. Иронично' - Жук;'You got squashed by a beetle. Ironic' - Bug
+desc_ALL_bulldog;Упрямый и мощный боец, не знающий отступления;A stubborn and powerful fighter who knows no retreat
+desc_FTR_bulldog;Атака всегда сопровождается коротким рывком за цель;Attack is always accompanied by a short dash behind the target
+desc_deph_bulldog;'Хороший мальчик! На, косточку' - Бульдог;'Good boy! Here, have a bone' - Bulldog
+desc_ALL_cat;Проворный и независимый боец;Nimble and independent fighter
+desc_FTR_cat;Яростные атаки непредсказуемы и могут мгновенно провести дополнительную атаку;Furious attacks are unpredictable and can instantly perform an additional attack
+desc_deph_cat;'Мяу?! Будешь моим ковриком?' - Кот;'Meow?! Going to be my doormat?' - Cat
+desc_ALL_dragonfly;Быстрый и маневренный разведчик;Fast and agile scout
+desc_FTR_dragonfly;Способность легко настигать цель;Ability to easily catch up with the target
+desc_deph_dragonfly;'Слишком медленно для нашего болота' - Стрекоза;'Too slow for our swamp' - Стрекоза
+desc_ALL_dummy;Деревянная тренировочная кукла, зачарованная на неуничтожимость;Wooden training doll enchanted for indestructibility
+desc_FTR_dummy;Не может атаковать и перемещаться, но служит идеальной мишенью для оттачивания боевых навыков;Cannot attack or move, but serves as a perfect target for honing combat skills
+desc_ALL_fox;Хитрый и коварный противник;Cunning and treacherous opponent
+desc_FTR_fox;Атака может оказаться отравленной, нанося дополнительный, но не смертельный, урон в течение нескольких ходов;Attack may be poisoned, dealing additional, but non-lethal, damage over several turns;
+desc_deph_fox;'Кажется, ты попался, милый зайчик' - Лиса;'Looks like you're caught, sweet rabbit' - Fox
+desc_ALL_mantis;Мастер боевых искусств из мира насекомых;Martial arts master from the insect world
+desc_FTR_mantis;Может наложить на противника Бессилие, запрещая проводить обычную атаку;Can inflict Powerlessness on the enemy, preventing normal attacks
+desc_deph_mantis;'Наши отношения вышли на новый уровень... и ты стал главным блюдом' - Богомол;'Our relationship has reached a new level... and you've become the main course' - Mantis
+desc_ALL_pig;Неожиданно коварное создание, обладающее магической способностью сковывать волю противника;Surprisingly cunning creature with magical ability to bind opponent's will
+desc_FTR_pig;Атака может лишить врага возможности передвигаться;Attack can deprive the enemy of the ability to move
+desc_deph_pig;'Место свое знаешь? ...' - Свинья;'Know your place? ...' - Pig
+desc_ALL_rabbit;Невероятно проворный и неуловимый зверек;Incredibly agile and elusive animal
+desc_FTR_rabbit;Врожденная ловкость позволяет полностью увернуться от любой направленной на него атаки;Innate agility allows to completely evade any attack directed at it
+desc_deph_rabbit;'Заяц решил, что ты — следующая морковка' - Заяц;'The rabbit has decided you're the next carrot' - Rabbit
+desc_ALL_rune_life;Таинственный камень с кроваво-алыми рунами;A mysterious stone with blood-red runes
+desc_FTR_rune_life;При уничтожении восполняет немного, потраченного в бою, очков здоровья;When destroyed, it restores a small amount of health spent in battle
+desc_ALL_rune_magic;Мистический гранит с небесно-лазурным свечением;Mystical granite with a celestial azure glow
+desc_FTR_rune_magic;При уничтожении немного восполняет запасов очков колдовства;When destroyed, it slightly restores your witchcraft points
+desc_ALL_shadow;Мистическое отражение, повторяющее каждое движение героя;A mystical reflection that mirrors the hero's every move
+desc_FTR_shadow;Копирует все характеристики и способности главного персонажа;Copies all attributes and abilities of the main character
+desc_ALL_secret_shop;Таинственная фигура в плаще, чье лицо скрыто в тенях;Mysterious figure in a cloak with face hidden in shadows
+desc_FTR_secret_shop;Появляется в самых неожиданных местах, словно между измерениями;Appears in the most unexpected places, as if between dimensions
+desc_ALL_wild_dog;Стайный хищник, опасный своей плодовитостью;Pack predator dangerous for its fertility
+desc_FTR_wild_dog;После каждого хода призывает помощь, создав в случайном месте Дикого Щенка;After each turn, summons help by creating a Wild Puppy in a random location
+desc_deph_wild_dog;'Никакой пощады. Закон стаи' - Дикая собака;'No mercy. The law of the pack' - Wild dog
+desc_ALL_wild_puppy;Юркий и подрастающий хищник;Nimble and growing predator
+desc_FTR_wild_puppy;Через несколько ходов повзрослеет и превратится в грозную Дикую Собаку;After a few turns will grow up and turn into a formidable Wild Dog
+desc_deph_wild_puppy;'Никакой пощады. Закон стаи' - Дикий щенок;'No mercy. The law of the pack' - Wild puppy
+desc_ALL_item_apple;Дарит легкость и быстроту, увеличивая Атрибут Ловкости на 2. Можно использовать один раз за ход;Grants lightness and speed, increasing the Dexterity Attribute by 2. Can be used once per turn
+desc_ALL_item_aglegor;Легкий и изящный клинок, растворяющийся в воздухе. Увеличивает Атрибут Ловкости на 6 и позволяет владельцу совершать круговую атаку, поражая всех врагов;A light and elegant blade that dissolves in the air. Increases the Agility attribute by 6 and allows the owner to perform a circular attack, hitting everyone
+desc_ALL_item_burzala;Таинственный арбалет, излучающий магическую энергию. Увеличивает Атрибут Интеллекта на 6 и и дает шанс в 50% нанести удвоенный урон;A mysterious crossbow emitting magical energy. Increases the Intelligence attribute by 6 and gives a 50% chance to deal double damage
+desc_ALL_item_cherry;Пробуждает ясность ума, увеличивая Атрибут Интеллекта на 2. Можно использовать один раз за ход;Awakens mental clarity, increasing the Intelligence Attribute by 2. Can be used once per turn
+desc_ALL_item_claymore;Массивный меч, требующий недюжей силы. Увеличивает Атрибут Ловкости на 4 и позволяет наносить одновременные удары в четыре стороны от владельца;A massive sword requiring great strength. Increases the Agility attribute by 4 and allows simultaneous strikes in four directions from the owner
+desc_ALL_item_eagles_palm;Легендарная печать, дарующая невероятную мощь. Увеличивает Атрибут Силы на 3, а при активации делает владельца бессмертным на 1 ход, после чего печать разбивается. Стоимость: 5;A legendary seal granting incredible power. Increases the Strength attribute by 3, and when activated, makes the owner immortal for 1 turn, after which the seal breaks. Cost: 5 MP
+desc_ALL_item_galvangar_ring;Магическое кольцо, поражающее врагов электрическими разрядами. Делает каждую атаку владельца по площади с радиусом 1 клетки, но враги в зоне поражения получают только половину урона;A magical ring that strikes enemies with electric discharges. Makes every attack of the owner an area attack with a radius of 1 cell, but enemies in the area of effect receive only half the damage
+desc_ALL_item_gods_horn;Легендарный артефакт, призывающий гнев небес. При активации наносит урон, зависящий от Атрибута Силы, в радиусе 2 клеток. Стоимость: 4 ОК;A legendary artifact that calls down the wrath of the heavens. When activated, deals damage depending on the Strength attribute in a 2-cell radius. Cost: 4 MP
+desc_ALL_item_heart_barricade;Прочный нагрудный амулет, связанный с жизненной силой носителя. Увеличивает Атрибут Силы на 6 и с 25% шансом полностью блокирует полученный урон;A sturdy chest amulet connected to the wearer's vital force. Increases the Strength attribute by 6 and with a 25% chance completely blocks incoming damage
+desc_ALL_item_mana_bottle;Стеклянная бутылка, наполненная сияющей голубой субстанцией. Мгновенно восстанавливает 5 ОК. Можно использовать один раз за ход;A glass bottle filled with a glowing blue substance. Instantly restores 5 MC. Can be used once per turn
+desc_ALL_item_mana_flask;Колба с бурлящей магической эссенцией. Восстанавливает по 3 ОК в течение 3 ходов. Можно использовать один раз за ход;A flask with bubbling magical essence. Restores 3 MC per turn for 3 turns. Can be used once per turn
+desc_ALL_item_mask_of_rage;Зловещая маска, подавляющая разум в обмен на силу. Снижает Атрибут Интеллекта на 2, но при активации увеличивает количество ОД на 2, в течение 2 ходов. Стоимость: 2 ОК;A sinister mask that suppresses the mind in exchange for strength. Reduces the Intelligence attribute by 2, but when activated, increases the number of AP by 2 for 2 turns. Cost: 2 MP
+desc_ALL_item_meat;Дарует сытость и мощь, увеличивая Атрибут Силы на 2. Можно использовать один раз за ход;Grants satiety and strength, increasing the Strength Attribute by 2. Can be used once per turn
+desc_ALL_item_natures_guard;Щит, вырезанный из древнего дерева. Увеличивает Атрибут Силы на 2;A shield carved from an ancient tree. Increases the Strength attribute by 2
+desc_ALL_item_poor_sword;Старый, хорошо сбалансированный и легкий клинок. Увеличивает Атрибут Ловкости на 2;An old, well-balanced and light blade. Increases the Agility attribute by 2
+desc_ALL_item_reed;Небольшой арбалет, выточенный из волшебного тростника. Увеличивает Атрибут Интеллекта на 2;A small crossbow carved from magical reed. Increases the Intelligence attribute by 2
+desc_ALL_item_stout_shield;Тяжелый и надежный щит, покрытый рунами. Увеличивает Атрибут Силы на 4 и возвращает 25% полученного урона атакующему;A heavy and reliable shield covered with runes. Increases the Strength attribute by 4 and returns 25% of the damage taken to the attacker
+desc_ALL_item_treatment_bottle;Небольшой сосуд с красной целебной жидкостью. Мгновенно восстанавливает 5 ОЗ. Можно использовать один раз за ход;A small vessel with red healing liquid. Instantly restores 5 HP. Can be used once per turn
+desc_ALL_item_treatment_flask;Магическая колба, медленно высвобождающая целительную энергию. Восстанавливает по 3 ОЗ в течении 3 ходов. Можно использовать один раз за ход;A magical flask that slowly releases healing energy. Restores 3 HP per turn for 3 turns. Can be used once per turn
+desc_ALL_item_unity_swarm;Магический артефакт, связывающий противников и запрещающий передвигаться, в течение 2 ходов. Стоимость: 3 ОК;A magical artifact that binds opponents and prohibits movement for 2 turns. Cost: 3 MP
+desc_ALL_item_vignette;Зачарованный арбалет, искажающий пространство вокруг владельца. Увеличивает Атрибут Интеллекта на 4 и дает шанс в 25% нанести удвоенный урон;An enchanted crossbow that distorts space around the owner. Increases the Intelligence attribute by 4 and gives a 25% chance to deal double damage
