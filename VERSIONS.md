@@ -140,7 +140,7 @@
 - Added visuals to the main game screens. Slow-moving tree silhouettes now pan across all game screens.
 
 ## Regular Update 'Alpha v0.0.1'
-### 28.10.2025
+**28.10.2025**
 
 - Create main execute file.
 - Create csv file for localization game (Russian, English).
