@@ -1,6 +1,46 @@
 # Infinite Managerie
 
 
+## Unusual Update 'Beta v0.1.0' - The forest stirs
+**04.12.2025**
+- Added Boss - Leshy - capable of producing various effects of other animals during an attack: Spawns one of nine enemy types on the battlefield at the end of its turn, performs an additional attack, or performs an attack that inflicts Bleeding, Disarm, or Immobilize.
+- Added Boss - Dryad - can restore health to all allies at once during its turn.
+- Added Boss - Forest Spirit - can revive trees once.
+- Added a new enemy type - Neutral - includes runes and trees. This enemy type cannot move or attack as part of a regular wave.
+- Added a new mask system. Now, if the main character is wearing any mask and an enemy is at full health, that enemy cannot attack the main character while they are wearing the mask or until their current health is less than their maximum health.
+- Added a new attribute - Curse - a special effect applied to the main character after passing the halfway point of the game.
+  If the main character's primary attribute is Agility, then for every 6 points of Agility, the character loses 1 point of Intelligence and Strength.
+  If the main character's primary attribute is Strength, then for every 6 points of Strength, the character loses 2 points of Intelligence.
+  If the main character's primary attribute is Intelligence, then for every 6 points of Intelligence, the character loses 2 points of Strength.
+- Added a new enemy detection marker.
+- Added a new marker for altering enemy processes.
+- Added flashing for items when they are used incorrectly.
+- Added a button to reset game statistics.
+- Fixed a bug with Neutral objects skipping their turn.
+- Fixed a bug with health restoration from flasks and bottles.
+- Fixed a bug with the shop appearing.
+- Fixed a bug with purchasing high-tier items without owning the lower-tier item.
+- Fixed a bug with incorrect enemy spawning when positioned too close to each other.
+- Fixed a bug with the mask not working correctly.
+- Fixed a bug with health and spell points being added after each wave completion.
+- Fixed a bug with the Retribution effect.
+- Fixed a bug with the Blessing effect.
+- Fixed bugs with Bulldog's movement and attack.
+- Fixed a bug with the ally not working correctly.
+- Fixed a bug with the Growth effect.
+- Fixed a bug with the ally's stats increasing based on the number of waves cleared.
+- Fixed a bug with incorrect side selection when restarting the game.
+- Fixed a bug with incorrect difficulty coefficient assignment.
+- Changed descriptions.
+- Changed the save structure.
+- Changed the color of critical hits.
+- Updated the visual effect for Immobilization (Root).
+- Changed the critical hit chance principle. The chance can now no longer exceed 75%.
+- Changed the visual appearance of the Wild Dog. Also added mask compatibility.
+- Changed the main character (Agility) - now has 3 AP and 4 ATK.
+- Reduced rewards for medium and hard waves.
+- Changed the difficulty coefficient. Now - 0.4.
+
 ## Regular Update 'Alpha v0.0.6c'
 **25.11.2025**
 - Added visual effects for Claymore and Aglegor items.
