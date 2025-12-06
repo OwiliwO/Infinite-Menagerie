@@ -1,6 +1,12 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.1.0a'
+**06.12.2025**
+- Fixed a bug where the post-death message was missing on the death screen.
+- Changed the main character (Agility) - now has 5 ATK.
+- Changed wave rewards.
+
 ## Unusual Update 'Beta v0.1.0' - The forest stirs
 **04.12.2025**
 - Added Boss - Leshy - capable of producing various effects of other animals during an attack: Spawns one of nine enemy types on the battlefield at the end of its turn, performs an additional attack, or performs an attack that inflicts Bleeding, Disarm, or Immobilize.
