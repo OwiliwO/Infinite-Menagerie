@@ -1,6 +1,12 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.1.0b'
+**09.12.2025**
+- Added item preview visualization.
+- Added sound effects for buying and selling items.
+- Fixed the bug with flasks and resource restoration.
+
 ## Regular Update 'Beta v0.1.0a'
 **06.12.2025**
 - Fixed a bug where the post-death message was missing on the death screen.
