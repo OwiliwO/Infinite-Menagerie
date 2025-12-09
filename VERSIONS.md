@@ -6,6 +6,8 @@
 - Added item preview visualization.
 - Added sound effects for buying and selling items.
 - Fixed the bug with flasks and resource restoration.
+- The effect of Curse has been changed - all reductions are now increased by one value.
+- The enemy (Mantis) has been changed - now has 1 AP.
 
 ## Regular Update 'Beta v0.1.0a'
 **06.12.2025**
