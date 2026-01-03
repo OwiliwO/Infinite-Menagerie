@@ -1,6 +1,24 @@
 # Infinite Managerie
 
 
+## Regular Update 'Beta v0.1.1'
+**03.01.2026**
+- Added a new item - Thumb of Midas, which adds 30 gold per completed wave but cannot be sold.
+- Added a new item - Leshy's Heart, granting a second life.
+- Added a new item - Miracle's Love, restoring HP each turn by 25% of maximum HP.
+- Added a new item - Edge, providing additional damage depending on your maximum AP amount.
+- Added a new item - Helmet of Marauder, disabling the Masquerade ability but granting 8 points to the main attribute.
+- Added a new item - Bulb of Death, which destroys all enemy characters on a wave, in exchange for taking a quarter of their total HP.
+- Added a new item - Ritual, doubling the value of weapons in the inventory, but after 10 waves it will destroy both them and itself.
+- Added a new item - Flesh Relic, creating a shield from maximum HP.
+- Added spawn animations for enemy and neutral characters.
+- Added small particles after the death of regular enemies.
+- Changed some enemy stats.
+- Changed the item (Mask of Rage) - now increases AP by 5.
+- Changed the main character (Agility) - now starts with 3 Intelligence.
+- Changed the main character (Intelligence) - now starts with 12 Intelligence.
+- Changed the movement/attack range calculation - now each point of Intelligence gives 0.25 to the range.
+
 ## Regular Update 'Beta v0.1.0b'
 **09.12.2025**
 - Added item preview visualization.
