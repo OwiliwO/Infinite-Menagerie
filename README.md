@@ -3,3 +3,4 @@ In the silence of the collection, it is not only thoughts that awaken, but insti
 
 ## Resouces
 1. Infinite Menagerie_texture_atlas.aseprite - file comprising all the game's required sprites, visual effects, and animations.
+2. Infinite Menagerie_pitch_deck.pdf - file with pitch deck of game.
